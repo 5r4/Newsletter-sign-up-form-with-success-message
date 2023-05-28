@@ -43,7 +43,7 @@ export function Home({ email, setEmail, changePage, isMobile }) {
               Product discovery and building what matters
             </Checkbox>
             <Checkbox>
-              <img src="./public/assets/images/icon-list.svg" alt="Check" />{" "}
+              <img src="../../public/assets/images/icon-list.svg" alt="Check" />{" "}
               Measuring to ensure updates are a success
             </Checkbox>
             <Checkbox>
