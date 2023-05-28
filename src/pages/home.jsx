@@ -39,11 +39,11 @@ export function Home({ email, setEmail, changePage, isMobile }) {
               Join 60,000+ product managers receiving monthly updates on:
             </p>
             <Checkbox>
-              <img src="../public/assets/images/icon-list.svg" alt="Check" />{" "}
+              <img src="./assets/images/icon-list.svg" alt="Check" />{" "}
               Product discovery and building what matters
             </Checkbox>
             <Checkbox>
-              <img src="../../public/assets/images/icon-list.svg" alt="Check" />{" "}
+              <img src="./assets/images/icon-list.svg" alt="Check" />{" "}
               Measuring to ensure updates are a success
             </Checkbox>
             <Checkbox>
@@ -60,7 +60,7 @@ export function Home({ email, setEmail, changePage, isMobile }) {
           <Col2>
             <div className="desktop-image">
               <img
-                src="./public/assets/images/illustration-sign-up-desktop.svg"
+                src="./assets/images/illustration-sign-up-desktop.svg"
                 alt="illustration-sign-up-desktop"
                 style={{ width: "100%" }}
               />
@@ -68,7 +68,7 @@ export function Home({ email, setEmail, changePage, isMobile }) {
 
             <div className="mobile-image">
               <img
-                src="./public/assets/images/illustration-sign-up-mobile.svg"
+                src="./assets/images/illustration-sign-up-mobile.svg"
                 alt="illustration-sign-up-desktop"
                 style={{ width: "100%" }}
               />
