@@ -60,7 +60,7 @@ export function Home({ email, setEmail, changePage, isMobile }) {
           <Col2>
             <div className="desktop-image">
               <img
-                src="./src/assets/images/illustration-sign-up-desktop.svg"
+                src="/src/assets/images/illustration-sign-up-desktop.svg"
                 alt="illustration-sign-up-desktop"
                 style={{ width: "100%" }}
               />
@@ -68,7 +68,7 @@ export function Home({ email, setEmail, changePage, isMobile }) {
 
             <div className="mobile-image">
               <img
-                src="./src/assets/images/illustration-sign-up-mobile.svg"
+                src="/src/assets/images/illustration-sign-up-mobile.svg"
                 alt="illustration-sign-up-desktop"
                 style={{ width: "100%" }}
               />
