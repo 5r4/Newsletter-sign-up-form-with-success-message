@@ -37,7 +37,7 @@ export function Thanks({ email, setPage }) {
       <Card>
         <Col style={{ position: "relative" }}>
           <img
-            src="./public/assets/images/icon-success.svg"
+            src="./assets/images/icon-success.svg"
             alt="success"
             width={"65px"}
             style={{ marginBottom: "30px" }}
