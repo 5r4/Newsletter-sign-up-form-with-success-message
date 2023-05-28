@@ -39,15 +39,15 @@ export function Home({ email, setEmail, changePage, isMobile }) {
               Join 60,000+ product managers receiving monthly updates on:
             </p>
             <Checkbox>
-              <img src="./src/assets/images/icon-list.svg" alt="Check" />{" "}
+              <img src="/src/assets/images/icon-list.svg" alt="Check" />{" "}
               Product discovery and building what matters
             </Checkbox>
             <Checkbox>
-              <img src="./src/assets/images/icon-list.svg" alt="Check" />{" "}
+              <img src="/src/assets/images/icon-list.svg" alt="Check" />{" "}
               Measuring to ensure updates are a success
             </Checkbox>
             <Checkbox>
-              <img src="./src/assets/images/icon-list.svg" alt="Check" /> And
+              <img src="/src/assets/images/icon-list.svg" alt="Check" /> And
               much more!
             </Checkbox>
             <Input
